@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1524701052 source:d:\facultate\tema 2 poo\matrice de nr complexe (reprezentare-matrici rare)\main.cpp
+	"matrice.cpp"
+	<bits/stdc++.h>
+	<algorithm>
+
+1524694413 d:\facultate\tema 2 poo\matrice de nr complexe (reprezentare-matrici rare)\numar_complex.h
+	<iostream>
+
+1524694413 d:\facultate\tema 2 poo\matrice de nr complexe (reprezentare-matrici rare)\numar_complex.cpp
+	"numar_complex.h"
+	<iomanip>
+
+1524694413 d:\facultate\tema 2 poo\matrice de nr complexe (reprezentare-matrici rare)\lista.cpp
+	"lista.h"
+
+1524694413 d:\facultate\tema 2 poo\matrice de nr complexe (reprezentare-matrici rare)\lista.h
+	<iostream>
+
+1524700881 d:\facultate\tema 2 poo\matrice de nr complexe (reprezentare-matrici rare)\matrice.cpp
+	"matrice.h"
+
+1524700150 d:\facultate\tema 2 poo\matrice de nr complexe (reprezentare-matrici rare)\matrice.h
+	"numar_complex.cpp"
+	"lista.cpp"
+	<iostream>
+
